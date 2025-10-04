@@ -117,7 +117,7 @@
     "fs-extra": "^10.0.0",
     "http-proxy-middleware": "^2.0.9",
     "inquirer": "^8.1.0",
-    "ip": "^1.1.5",
+    "ip": "^2.0.1",
     "lodash": "^4.17.20",
     "mini-css-extract-plugin": "^2.4.2",
     "mitt": "^3.0.0",
